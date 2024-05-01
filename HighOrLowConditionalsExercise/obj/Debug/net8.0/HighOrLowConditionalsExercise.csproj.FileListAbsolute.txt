@@ -1,0 +1,14 @@
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\bin\Debug\net8.0\HighOrLowConditionalsExercise.exe
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\bin\Debug\net8.0\HighOrLowConditionalsExercise.deps.json
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\bin\Debug\net8.0\HighOrLowConditionalsExercise.runtimeconfig.json
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\bin\Debug\net8.0\HighOrLowConditionalsExercise.dll
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\bin\Debug\net8.0\HighOrLowConditionalsExercise.pdb
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\obj\Debug\net8.0\HighOrLowConditionalsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\obj\Debug\net8.0\HighOrLowConditionalsExercise.AssemblyInfoInputs.cache
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\obj\Debug\net8.0\HighOrLowConditionalsExercise.AssemblyInfo.cs
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\obj\Debug\net8.0\HighOrLowConditionalsExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\obj\Debug\net8.0\HighOrLowConditionalsExercise.dll
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\obj\Debug\net8.0\refint\HighOrLowConditionalsExercise.dll
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\obj\Debug\net8.0\HighOrLowConditionalsExercise.pdb
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\obj\Debug\net8.0\HighOrLowConditionalsExercise.genruntimeconfig.cache
+C:\Users\ramse\source\repos\HighOrLowConditionalsExercise\HighOrLowConditionalsExercise\obj\Debug\net8.0\ref\HighOrLowConditionalsExercise.dll
